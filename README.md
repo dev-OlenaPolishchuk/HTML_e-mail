@@ -1,2 +1,4 @@
 # HTML_e-mail
- html email with tables
+ Creating responsive html e-mail using tables, some media queries, inline and internal css.
+ 
+ It is my first trying.
